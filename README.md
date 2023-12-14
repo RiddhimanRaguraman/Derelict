@@ -64,7 +64,7 @@ For any issues or questions, please [create an issue](https://github.com/Riddhim
 
 ## Releases
 
-[v1.0.07.](https://github.com/RiddhimanRaguraman/CloudsRescue/releases/tag/v1.0.07)
+[v1.0.07.](https://github.com/RiddhimanRaguraman/Derelict/releases/tag/V0.07)
 
 ## License
 
