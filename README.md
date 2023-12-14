@@ -24,6 +24,14 @@ Each level has different winning conditions, including escaping, shooting, and i
 
 Sublevels become progressively challenging, requiring players to find scenes on their own, overcome limited ammunition, and shoot precisely for disguise. An extra nonplayable character guides the player initially.
 
+### Controls
+
+- Movement: WASD keys
+- Jump: Spacebar
+- Crouch: [Specify key/button]
+- Shoot: Mouse clicks
+- Additional controls yet to be added.
+
 ## System Requirements
 
 - A PC is required to play the game.
@@ -36,10 +44,6 @@ Sublevels become progressively challenging, requiring players to find scenes on 
 
 The game is designed for teenagers and avid gamers seeking an immersive survival experience.
 
-## Marketing Plan
-
-Derelict offers an exciting gameplay experience, blending shooting with a captivating story mode. Our target audience, teenagers and game enthusiasts, will find this combination appealing. We aim to sell around 150 games.
-
 ## Getting Started
 
 To play Derelict, follow these steps:
@@ -47,7 +51,7 @@ To play Derelict, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/Derelict.git
+    git clone https://github.com/RiddhimanRagurman/Derelict.git
     ```
 
 2. Open the project in Unity.
@@ -56,7 +60,11 @@ To play Derelict, follow these steps:
 
 ## Support
 
-For any issues or questions, please [create an issue](https://github.com/YourUsername/Derelict/issues).
+For any issues or questions, please [create an issue](https://github.com/RiddhimanRagurman/Derelict/issues), or contact me at [raguramanriddhiman@email.com] 
+
+## Releases
+
+[v1.0.07.](https://github.com/RiddhimanRaguraman/CloudsRescue/releases/tag/v1.0.07)
 
 ## License
 
